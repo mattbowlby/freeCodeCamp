@@ -88,10 +88,23 @@
   }
 }
 
+#column-left {
+  
+}
 
-#wrapper-main img {
-  float: right;
-  width: 500px;
+#column-left img {
+  width: 25%;
+  float: left;
+  padding: 10px 20px 15px 0px;
+  border-radius: 60px;
+}
 
+#column-right {
+
+}
+
+#column-right img {
+  width: 100%;
+  box-shadow: 10px 10px 5px #888888;
 }
 
